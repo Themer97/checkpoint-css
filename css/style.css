@@ -1,0 +1,44 @@
+* {
+  background-color: #bbf3f5;
+ }
+ h4{text-align: center;}
+   #nav,a {
+   
+     background-color: #eeeeee;
+     height: 20px;
+     text-align: center;
+ 
+   }
+   #nav a {
+     text-decoration: none;
+     color: black;
+   }
+   #nav li {
+     display: inline-block;
+     margin-left: 20px;
+   }
+   #nav a:hover {
+     color: violet;
+   }
+ 
+   th {
+     border: 5px solid #095484;
+   }
+   td {
+     border: 5px groove #1c87c9;
+   }
+ 
+ /* para_button */
+ button {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+ }
+ img,video,iframe{text-align: center;}
